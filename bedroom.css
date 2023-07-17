@@ -1,0 +1,23 @@
+.heading
+{
+font-size: 18px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+img
+{
+position: center;
+}
+
